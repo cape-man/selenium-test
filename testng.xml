@@ -7,6 +7,14 @@
 		<class name="com.dotnetscripts.DisplayRegisterPage"/>
 		<class name="com.dotnetscripts.DisplayContactPage"/>
 		<class name="com.dotnetscripts.DisplayAboutPage"/>
+		<class name="com.dotnetscripts.DisplayLoginPage1"/>
+		<class name="com.dotnetscripts.DisplayRegisterPage1"/>
+		<class name="com.dotnetscripts.DisplayContactPage1"/>
+		<class name="com.dotnetscripts.DisplayAboutPage1"/>
+		<class name="com.dotnetscripts.DisplayLoginPage2"/>
+		<class name="com.dotnetscripts.DisplayRegisterPage2"/>
+		<class name="com.dotnetscripts.DisplayContactPage2"/>
+		<class name="com.dotnetscripts.DisplayAboutPage2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
